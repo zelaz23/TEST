@@ -4,8 +4,6 @@ from datetime import time
 import pandas as pd
 
 
-import streamlit as st
-
 st.sidebar.button("CALCULATE BEST OPTION")
 
 
